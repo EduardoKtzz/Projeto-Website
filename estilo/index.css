@@ -1,0 +1,146 @@
+.cabeçalho {
+   border: 1px hidden;
+   background-color: rgb(255, 153, 0);
+   padding: 15px;
+   margin: -10px;
+}
+.titulo {
+   text-align: center;
+   padding-left: 800px;
+   color: black;
+   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+}
+
+.titulo2 {
+   color: white;
+}
+
+h1 {
+   font-size: 70px;
+   display: inline-block;
+}
+
+.espaçamento {
+   padding-left: 590px;
+   font-weight: bold;
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   font-size: 25px;
+}
+
+.menu {
+   display: inline-block;
+   padding-left: 50px;
+   font-size: 25px;
+   color: rgb(255, 255, 255);
+   text-decoration: none;
+   margin-bottom: 20px;
+   font-weight: bold;
+}
+.corpo {
+   background-color: white;
+}
+.conteudo {
+   color: rgb(255, 153, 0);
+   font-size: 30px;
+   border: 1px hidden;
+   padding-top: 35px;
+   padding-left: 250px;
+}
+
+.data {
+   color: rgb(0, 0, 0);
+   border: 1px hidden;
+   padding-left: 250px;
+   padding-top: -20px;
+   margin-top: -25px;
+}
+
+.foto2 {
+   padding-left: 250px;
+   width: 50%;
+}
+.foto1 {
+   padding-left: 250px;
+}
+
+.posição {
+   font-size: 30px;
+   position: relative;
+   left: 76%;
+   bottom: 700px;
+   background-color: rgb(206, 202, 202);
+   width: 250px;
+   text-align: center;
+}
+.posição2 {
+   font-size: 30px;
+   position: relative;
+   left: 76%;
+   bottom: 650px;
+   background-color: rgb(206, 202, 202);
+   width: 250px;
+   text-align: center;
+}
+
+.noticia {
+   position: relative;
+   left: 76%;
+   bottom: 700px;
+   margin: -10px;
+   width: 250px;
+   font-size: 20px;
+}
+.noticia2 {
+   position: relative;
+   padding-top: 30px;
+   left: 76%;
+   bottom: 700px;
+   width: 250px;
+   font-size: 20px;
+}
+
+.links {
+   position: relative;
+   left: 78%;
+   bottom: 670px;
+   color: rgb(255, 153, 0);
+   text-decoration: underline;
+   font-size: 30px;
+   font-weight: bold;
+}
+
+hr {
+   position: relative;
+   left: 32%;
+   bottom: 670px;
+   width: 15%;
+}
+
+.guias {
+   display: block;
+   position: relative;
+   left: 76%;
+   bottom: 670px;
+   text-decoration: none;
+   color: rgb(255, 153, 0);
+   font-size: 27px;
+   font-weight: bold;
+}
+a:hover {
+   color: blue;
+}
+
+.texto {
+   font-size: 25px;
+   margin-top: -550px;
+   margin-left: 13%;
+   margin-right: 36%;
+}
+
+.direitos {
+   font-weight: bold;
+   text-align: center;
+   margin-top: 200px;
+}
